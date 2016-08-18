@@ -1,0 +1,17 @@
+{
+    "name": "ultra-googlefont",
+    "license": "APACHE2",
+    "authors": [
+        "Astigmatic"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/ultra-bower.git"
+    },
+    "description": "Ultra font",
+    "keywords": [
+        "font",
+        "SERIF"
+    ]
+}
